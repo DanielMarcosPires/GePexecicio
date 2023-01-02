@@ -1,0 +1,14 @@
+.content__section{
+    border-bottom: solid 1px var(--border);
+    padding: 8px 0;
+}
+.content__margin{
+    width: var(--margin);
+    margin: 0 auto;
+}
+.content__title{
+    margin: 8px 0;
+}
+.content__list li{
+    margin: 0 1.5em;
+}

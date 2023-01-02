@@ -1,0 +1,8 @@
+
+@import url(./style/header/style.css);
+@import url(./style/main/style.css);
+
+:root{
+    --border:black;
+    --margin:95%;
+}

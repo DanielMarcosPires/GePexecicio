@@ -1,0 +1,14 @@
+header{
+    border-bottom: solid 1px var(--border);
+    padding: 2px 0 10px 0;
+}
+.header__margin{
+    width: var(--margin);
+    margin: 0 auto;
+}
+.header__title{
+    margin: 8px 0;
+}
+.header__text{
+    font-weight: bold;
+}
